@@ -1,4 +1,7 @@
- Deploy Link : https://study-hub-project.vercel.app/
+ ## Deploy Link : https://study-hub-project.vercel.app/
+
+
+Key Technologies are : React is - Build Frontend, Node is + Express is - Build Backend, MongoDB Atlas - For Creating Database, Postman - For Testing APIs, Razorpay - Payment Integration, Render- For deploying Backend, Render - For deploying Backend.
 
 ## Usage
 
